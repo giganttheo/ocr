@@ -6,6 +6,8 @@ https://arxiv.org/pdf/2202.11221.pdf
 
 https://github.com/princewang1994/TextSnake.pytorch
 
+https://github.com/ying09/TextFuseNet
+
 Text Recognition :
 
 https://huggingface.co/microsoft/trocr-large-printed
